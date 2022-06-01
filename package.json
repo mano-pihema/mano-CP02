@@ -17,4 +17,10 @@
     "url": "https://github.com/mano-pihema/mano-CP02/issues"
   },
   "homepage": "https://github.com/mano-pihema/mano-CP02#readme"
+  ,
+  "devDependencies": {
+   
+    "jest": "^27.5.1"
+    
+  }
 }
